@@ -1,13 +1,13 @@
 ### Hello and welcome 👋 :smile: 
 
-## Languages
+#### Languages
 Python, Javascript, C++ and Sql
 
-## Databases
+#### Databases
 Mysql, Postgresql, MongoDB
 
-## Tools 
+#### Tools 
 Cmd Bash VSCode Jupyter Notebook
 
-## Technologies
+#### Technologies
 Azure, CI/CD, Linux, Node.js, React, Electron, Html, Css
